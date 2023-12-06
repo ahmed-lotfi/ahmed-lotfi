@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Lotfi</h1>
-<h3 align="center">I'm a computer science student and I'm a passionate learner.</h3>
+<h3 align="center">a computer science student and I'm a passionate learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-lotfi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-lotfi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **front end**
 
-- 📫 How to reach me **moahmedm559@gmail.com**
+- 📫 How to reach me **ahmed.lotfii@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
