@@ -1,3 +1,4 @@
+<img src = "https://www.linkedin.com/in/ahmed--lotfi/overlay/background-image/"/>
 <h1 align="center">Hi 👋, I'm Ahmed Lotfi</h1>
 <h3 align="center">a computer science student and I'm a passionate learner.</h3>
 
