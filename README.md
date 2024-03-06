@@ -1,4 +1,3 @@
-<img src = "https://drive.google.com/file/d/1KdrFMubnxnAIKCuz1tq585-CVlnD4gAY/view?usp=sharing"/>
 <h1 align="center">Hi 👋, I'm Ahmed Lotfi</h1>
 <h3 align="center">a computer science student and I'm a passionate learner.</h3>
 
