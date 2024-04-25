@@ -22,7 +22,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m a `Front-End` developer using `Reactjs`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1vK2jGdkpFWgK2zcBkMrKLHQ4Q4LjzbcL/edit?usp=sharing&ouid=101663221751981702468&rtpof=true&sd=true).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1vK2jGdkpFWgK2zcBkMrKLHQ4Q4LjzbcL/edit?usp=sharing&ouid=101663221751981702468&rtpof=true&sd=true](https://docs.google.com/document/d/1TYPS8h3cjHJkDTvEflsYwgNkYkle0_Q2/edit?usp=sharing&ouid=106598227290362603077&rtpof=true&sd=true).
 <br>
 
 
